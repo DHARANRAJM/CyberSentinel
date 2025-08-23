@@ -14,8 +14,8 @@ from typing import Dict, List, Any, Optional
 import os
 from pathlib import Path
 
-from ..utils.logger import logger
-from ..utils.risk_engine import RiskEngine, VulnerabilityFinding, RiskLevel
+from utils.logger import logger
+from utils.risk_engine import RiskEngine, VulnerabilityFinding, RiskLevel
 
 class VersionChecker:
     """Software version vulnerability checker against CVE database"""
