@@ -1,0 +1,279 @@
+================================================================================
+                    CYBERSENTINEL PRO - EXECUTION GUIDE
+                    Complete Step-by-Step Instructions
+================================================================================
+
+OVERVIEW:
+CyberSentinel Pro is a production-grade cybersecurity monitoring platform with:
+- Python endpoint agents (Linux/Windows)
+- FastAPI backend with PostgreSQL
+- React dashboard frontend
+- Docker Compose orchestration
+- Celery workers for async processing
+
+================================================================================
+                              PREREQUISITES
+================================================================================
+
+1. INSTALL DOCKER DESKTOP
+   - Download from: https://www.docker.com/products/docker-desktop/
+   - Install Docker Desktop for Windows
+   - Start Docker Desktop and wait for it to fully load
+   - Verify installation: Open PowerShell and run "docker --version"
+
+2. VERIFY SYSTEM REQUIREMENTS
+   - Windows 10/11 with WSL2 enabled
+   - At least 8GB RAM (16GB recommended)
+   - 10GB free disk space
+   - Internet connection for downloading images
+
+================================================================================
+                            QUICK START METHOD
+================================================================================
+
+STEP 1: NAVIGATE TO PROJECT
+   Open PowerShell as Administrator and run:
+   cd "d:\VS Code\CyberSentinel"
+
+STEP 2: RUN STARTUP SCRIPT
+   .\start.bat
+
+STEP 3: CREATE ADMIN USER
+   .\setup-admin.bat
+
+STEP 4: ACCESS DASHBOARD
+   Open browser: http://localhost:3000
+   Login: admin@cybersentinel.local / admin123
+
+================================================================================
+                            MANUAL EXECUTION METHOD
+================================================================================
+
+STEP 1: PREPARE ENVIRONMENT
+   cd "d:\VS Code\CyberSentinel\deploy"
+   copy .env.example .env
+   
+   Edit .env file with your settings:
+   - Change POSTGRES_PASSWORD=your_secure_password
+   - Change JWT_SECRET_KEY=your_jwt_secret_key_here
+   - Change API_SECRET_KEY=your_api_secret_key_here
+
+STEP 2: START SERVICES
+   docker-compose up -d
+
+STEP 3: VERIFY SERVICES
+   docker-compose ps
+   
+   Expected services:
+   - cybersentinel-db (PostgreSQL)
+   - cybersentinel-redis (Redis)
+   - cybersentinel-api (FastAPI Backend)
+   - cybersentinel-worker (Celery Worker)
+   - cybersentinel-web (React Frontend)
+   - cybersentinel-minio (Object Storage)
+
+STEP 4: INITIALIZE DATABASE
+   docker-compose exec api python -c "
+   from app.database import engine
+   from app.models import Base
+   Base.metadata.create_all(bind=engine)
+   print('Database initialized')
+   "
+
+STEP 5: CREATE ADMIN USER
+   docker-compose exec api python -c "
+   from app.database import SessionLocal
+   from app.models import User
+   from app.auth import get_password_hash
+   import uuid
+   
+   db = SessionLocal()
+   admin_user = User(
+       id=str(uuid.uuid4()),
+       email='admin@cybersentinel.local',
+       hashed_password=get_password_hash('admin123'),
+       role='admin',
+       is_active=True
+   )
+   db.add(admin_user)
+   db.commit()
+   print('Admin user created')
+   "
+
+================================================================================
+                              SERVICE URLS
+================================================================================
+
+After successful startup, access these URLs:
+
+WEB DASHBOARD:     http://localhost:3000
+API BACKEND:       http://localhost:8000
+API DOCUMENTATION: http://localhost:8000/docs
+MINIO CONSOLE:     http://localhost:9001 (admin/password123)
+
+================================================================================
+                            AGENT DEPLOYMENT
+================================================================================
+
+STEP 1: PREPARE AGENT FILES
+   Copy agent directory to target system:
+   cp -r agent/ /opt/cybersentinel-agent/
+
+STEP 2: INSTALL AGENT DEPENDENCIES
+   cd /opt/cybersentinel-agent/
+   pip install -r requirements.txt
+
+STEP 3: CONFIGURE AGENT
+   Edit config.yaml:
+   - Set agent_id: unique identifier
+   - Set api_url: http://your-server:8000
+   - Set api_key: generate from web dashboard
+   - Configure collectors and intervals
+
+STEP 4: RUN AGENT
+   python agent.py
+
+================================================================================
+                            VERIFICATION STEPS
+================================================================================
+
+1. CHECK SERVICE STATUS
+   docker-compose ps
+   All services should show "Up" status
+
+2. CHECK LOGS
+   docker-compose logs api
+   docker-compose logs web
+   docker-compose logs worker
+
+3. TEST API ENDPOINTS
+   curl http://localhost:8000/health
+   Should return: {"status": "healthy"}
+
+4. TEST WEB DASHBOARD
+   Open http://localhost:3000
+   Should show login page
+
+5. TEST AUTHENTICATION
+   Login with admin credentials
+   Should redirect to dashboard
+
+6. TEST AGENT CONNECTION
+   Deploy agent and check heartbeat in dashboard
+
+================================================================================
+                            TROUBLESHOOTING
+================================================================================
+
+PROBLEM: Docker not found
+SOLUTION: Install Docker Desktop and ensure it's running
+
+PROBLEM: Port conflicts
+SOLUTION: Stop conflicting services or change ports in docker-compose.yml
+
+PROBLEM: Services won't start
+SOLUTION: 
+   - Check Docker Desktop is running
+   - Run: docker-compose down && docker-compose up -d
+   - Check logs: docker-compose logs
+
+PROBLEM: Database connection failed
+SOLUTION:
+   - Restart database: docker-compose restart db
+   - Check environment variables in .env file
+
+PROBLEM: Web dashboard not loading
+SOLUTION:
+   - Check if port 3000 is available
+   - Restart frontend: docker-compose restart web
+   - Clear browser cache
+
+PROBLEM: Agent can't connect
+SOLUTION:
+   - Verify API URL in agent config.yaml
+   - Check API key is correct
+   - Ensure firewall allows connections
+
+================================================================================
+                            STOPPING SERVICES
+================================================================================
+
+GRACEFUL SHUTDOWN:
+   cd "d:\VS Code\CyberSentinel\deploy"
+   docker-compose down
+
+REMOVE ALL DATA:
+   docker-compose down -v
+
+QUICK STOP:
+   cd "d:\VS Code\CyberSentinel"
+   .\stop.bat
+
+================================================================================
+                            PRODUCTION DEPLOYMENT
+================================================================================
+
+For production deployment:
+
+1. SECURITY HARDENING
+   - Use strong passwords and secrets
+   - Enable TLS/SSL certificates
+   - Configure firewall rules
+   - Set up proper backup strategy
+
+2. SCALING
+   - Use managed database service
+   - Set up load balancer
+   - Scale worker processes
+   - Implement monitoring
+
+3. MONITORING
+   - Set up log aggregation
+   - Configure health checks
+   - Monitor resource usage
+   - Set up alerting
+
+================================================================================
+                            SUPPORT INFORMATION
+================================================================================
+
+PROJECT STRUCTURE:
+├── api/           # FastAPI backend
+├── agent/         # Python agent
+├── web/           # React frontend
+├── deploy/        # Docker Compose
+└── scripts/       # Utility scripts
+
+KEY FEATURES:
+- Real-time security monitoring
+- Multi-agent deployment
+- Centralized alert management
+- Rule-based threat detection
+- Modern web dashboard
+- RESTful API
+- Docker containerization
+
+DEFAULT CREDENTIALS:
+Email: admin@cybersentinel.local
+Password: admin123
+(Change after first login!)
+
+IMPORTANT PORTS:
+3000 - Web Dashboard
+8000 - API Backend
+5432 - PostgreSQL
+6379 - Redis
+9000 - MinIO API
+9001 - MinIO Console
+
+================================================================================
+                            END OF EXECUTION GUIDE
+================================================================================
+
+For additional help, refer to:
+- README.md - Project overview
+- DEPLOYMENT.md - Detailed deployment guide
+- API documentation at http://localhost:8000/docs
+
+Last updated: 2025-08-23
+Version: 1.0.0

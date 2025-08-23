@@ -1,0 +1,58 @@
+# CyberSentinel Pro Agent Configuration
+# Version: 2.0
+
+# Agent identification
+agent_id: "550e8400-e29b-41d4-a716-446655440000"  # Generate unique UUID for each agent
+
+# API Configuration
+api_url: "http://localhost:8080"
+api_key: "CSP_your_api_key_here"  # Replace with actual API key
+
+# Collectors Configuration
+collectors:
+  # Port monitoring
+  ports: true
+  
+  # Process monitoring
+  processes: true
+  
+  # Authentication log monitoring (Linux/Unix only)
+  auth_log: false
+  
+  # File integrity monitoring
+  integrity: false
+  
+  # Network sniffing (requires elevated privileges)
+  sniff: false
+
+# Collection Intervals (seconds)
+intervals:
+  ports: 300        # 5 minutes
+  processes: 300    # 5 minutes
+  auth_log: 60      # 1 minute
+  integrity: 600    # 10 minutes
+  sniff: 30         # 30 seconds
+
+# File Integrity Monitoring Paths
+integrity_paths:
+  - "/etc/passwd"
+  - "/etc/shadow"
+  - "/etc/hosts"
+  - "/etc/ssh/sshd_config"
+  - "/etc/sudoers"
+
+# Buffer Configuration
+buffer_max: 1000    # Maximum events to buffer when offline
+
+# Logging Configuration
+logging:
+  level: "INFO"     # DEBUG, INFO, WARNING, ERROR, CRITICAL
+  file: "agent.log"
+  max_size: "10MB"
+  backup_count: 5
+
+# Network Configuration
+network:
+  timeout: 30       # HTTP timeout in seconds
+  retry_attempts: 3
+  retry_delay: 5    # Seconds between retries
