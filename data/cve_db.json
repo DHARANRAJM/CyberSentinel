@@ -1,0 +1,52 @@
+{
+  "apache": {
+    "2.2": {
+      "cves": ["CVE-2017-15710", "CVE-2017-15715", "CVE-2018-1312"],
+      "risk": "High",
+      "description": "Apache HTTP Server 2.2.x contains multiple security vulnerabilities"
+    },
+    "2.4.0": {
+      "cves": ["CVE-2019-0211", "CVE-2019-0215"],
+      "risk": "High",
+      "description": "Apache HTTP Server 2.4.0 has privilege escalation vulnerabilities"
+    }
+  },
+  "nginx": {
+    "1.14": {
+      "cves": ["CVE-2019-20372"],
+      "risk": "Medium",
+      "description": "Nginx 1.14.x has HTTP request smuggling vulnerability"
+    }
+  },
+  "mysql": {
+    "5.6": {
+      "cves": ["CVE-2020-2922", "CVE-2020-2934"],
+      "risk": "High",
+      "description": "MySQL 5.6.x contains privilege escalation vulnerabilities"
+    },
+    "5.7": {
+      "cves": ["CVE-2021-2144"],
+      "risk": "Medium",
+      "description": "MySQL 5.7.x has information disclosure vulnerability"
+    }
+  },
+  "openssh": {
+    "7.4": {
+      "cves": ["CVE-2018-15473"],
+      "risk": "Medium",
+      "description": "OpenSSH 7.4 allows username enumeration"
+    }
+  },
+  "openssl": {
+    "1.0.1": {
+      "cves": ["CVE-2014-0160"],
+      "risk": "Critical",
+      "description": "OpenSSL 1.0.1 Heartbleed vulnerability"
+    },
+    "1.0.2": {
+      "cves": ["CVE-2016-2107"],
+      "risk": "High",
+      "description": "OpenSSL 1.0.2 padding oracle vulnerability"
+    }
+  }
+}
