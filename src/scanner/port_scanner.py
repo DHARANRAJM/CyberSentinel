@@ -1,7 +1,18 @@
+#!/usr/bin/env python3
+"""
+Port Scanner Module
+Part of CyberSentinel - Automated Vulnerability Assessment Tool
+
+👨‍💻 Author: M DHARAN RAJ -- Web Developer------CISCO Trained & CISCO Certified Ethical Hacker----- 🔒
+🌐 Web Developer | 🔐 CISCO Certified | ⚡ Ethical Hacker | 🛡️ Security Expert
+"""
+
 import nmap
 import socket
+import subprocess
 import threading
-from typing import Dict, List, Tuple, Any
+import time
+from typing import Dict, List, Any, Tuple, Any
 import json
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed

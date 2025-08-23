@@ -1,5 +1,9 @@
 # 🛡️ CyberSentinel - Automated Vulnerability Assessment Tool
 
+**👨‍💻 Author: M DHARAN RAJ -- Web Developer------CISCO Trained & CISCO Certified Ethical Hacker----- 🔒**
+
+🌐 **Web Developer** | 🔐 **CISCO Certified** | ⚡ **Ethical Hacker** | 🛡️ **Security Expert**
+
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Security](https://img.shields.io/badge/security-vulnerability%20scanner-red.svg)](https://github.com/yourusername/CyberSentinel)
@@ -315,6 +319,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ for the cybersecurity community**
+**Made with ❤️ for the cybersecurity community by M DHARAN RAJ -- Web Developer------CISCO Trained & CISCO Certified Ethical Hacker----- 🔒**
+
+🌐 **Web Developer** | 🔐 **CISCO Certified** | ⚡ **Ethical Hacker** | 🛡️ **Security Expert**
 
 *Remember: With great power comes great responsibility. Use CyberSentinel ethically and legally.*

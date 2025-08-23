@@ -2,6 +2,9 @@
 """
 CyberSentinel - Automated Vulnerability Assessment Tool
 Main orchestrator that coordinates all scanning modules
+
+👨‍💻 Author: M DHARAN RAJ -- Web Developer------CISCO Trained & CISCO Certified Ethical Hacker----- 🔒
+🌐 Web Developer | 🔐 CISCO Certified | ⚡ Ethical Hacker | 🛡️ Security Expert
 """
 
 import argparse

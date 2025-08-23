@@ -4,7 +4,7 @@ setup(
     name="cybersentinel",
     version="1.0.0",
     description="Automated Vulnerability Assessment Tool",
-    author="CyberSentinel Team",
+    author="M DHARAN RAJ -- Web Developer------CISCO Trained & CISCO Certified Ethical Hacker-----",
     author_email="contact@cybersentinel.com",
     packages=find_packages(),
     install_requires=[

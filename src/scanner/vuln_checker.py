@@ -1,3 +1,12 @@
+#!/usr/bin/env python3
+"""
+Vulnerability Checker Module
+Part of CyberSentinel - Automated Vulnerability Assessment Tool
+
+👨‍💻 Author: M DHARAN RAJ -- Web Developer------CISCO Trained & CISCO Certified Ethical Hacker----- 🔒
+🌐 Web Developer | 🔐 CISCO Certified | ⚡ Ethical Hacker | 🛡️ Security Expert
+"""
+
 import requests
 import re
 import urllib.parse
