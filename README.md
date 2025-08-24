@@ -77,7 +77,8 @@ pip install -r requirements.txt
 python -m src.main --target example.com
 
 # Comprehensive scan with multiple report formats
-python -m src.main --target 192.168.1.1 --ports 1-65535 --output html pdf json
+python -m src.main --target 192.168.1.1 --ports 1-65535 --output pdf json html --output-dir "Result_file"
+
 
 # Using the shell wrapper (Linux/Mac)
 chmod +x run.sh
