@@ -348,13 +348,17 @@ def main():
     
     # Print banner
     print("""
-    ╔═══════════════════════════════════════════════════════════╗
-    ║                    🛡️  CyberSentinel 🛡️                    ║
-    ║            Automated Vulnerability Assessment Tool        ║
-    ║                                                           ║
-    ║  ⚠️  FOR AUTHORIZED TESTING ONLY ⚠️                       ║
-    ║  Only scan systems you own or have explicit permission   ║
-    ╚═══════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════╗
+║                    🛡️  CyberSentinel 🛡️                  ║
+║            Automated Vulnerability Assessment Tool        ║
+║                                                           ║
+║                  Author: M DHARAN RAJ                     ║
+║                     Web Developer                         ║
+║      CISCO Trained & CISCO Certified Ethical Hacker       ║
+║                                                           ║
+║         ⚠️  FOR AUTHORIZED TESTING ONLY ⚠️               ║
+║  Only scan systems you own or have explicit permission    ║
+╚═══════════════════════════════════════════════════════════╝
     """)
     
     try:

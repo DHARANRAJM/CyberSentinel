@@ -266,3 +266,253 @@
 2025-08-24 22:00:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m Security assessment completed successfully!
 2025-08-24 22:00:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generated reports:
 2025-08-24 22:00:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m   HTML: Result_file\CyberSentinel_arunjunaitraders.com_20250824_220048.html
+2025-08-24 22:33:30 - CyberSentinel - [32mINFO[0m - [32m[+][0m Loaded CVE database with 5 software entries
+2025-08-24 22:33:30 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting comprehensive security assessment of bhc.edu.in
+2025-08-24 22:33:30 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting vulnerability scan for target: [36mbhc.edu.in[0m
+2025-08-24 22:33:30 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:33:30 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 1: PORT SCANNING
+2025-08-24 22:33:30 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:33:30 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting port scan for bhc.edu.in
+2025-08-24 22:33:30 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scanning ports 1-1000 on bhc.edu.in
+2025-08-24 22:34:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m Port scan completed. Found 0 open ports
+2025-08-24 22:34:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scan completed for [36mbhc.edu.in[0m in 38.72 seconds
+2025-08-24 22:34:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m Skipping SSL check (HTTPS port 443 not open)
+2025-08-24 22:34:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:34:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 3: SOFTWARE VERSION ANALYSIS
+2025-08-24 22:34:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:34:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m No services found for version checking
+2025-08-24 22:34:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:34:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 4: WEB VULNERABILITY SCANNING
+2025-08-24 22:34:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:34:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m No web services found for vulnerability scanning
+2025-08-24 22:34:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scan completed for [36mbhc.edu.in[0m in 38.78 seconds
+2025-08-24 22:34:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m ============================================================
+2025-08-24 22:34:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m SCAN SUMMARY
+2025-08-24 22:34:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m ============================================================
+2025-08-24 22:34:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m Target: bhc.edu.in
+2025-08-24 22:34:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m Total Findings: 0
+2025-08-24 22:34:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scan Duration: 38.78 seconds
+2025-08-24 22:34:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m 
+2025-08-24 22:34:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m Risk Breakdown:
+2025-08-24 22:34:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m 
+2025-08-24 22:34:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m ============================================================
+2025-08-24 22:34:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generating security reports in: D:\VS Code\CyberSentinel
+2025-08-24 22:34:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generating HTML report: CyberSentinel_bhc.edu.in_20250824_223409.html
+2025-08-24 22:34:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m HTML report generated successfully: CyberSentinel_bhc.edu.in_20250824_223409.html
+2025-08-24 22:34:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m Reports generated: html
+2025-08-24 22:34:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m Security assessment completed successfully!
+2025-08-24 22:34:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generated reports:
+2025-08-24 22:34:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m   HTML: CyberSentinel_bhc.edu.in_20250824_223409.html
+2025-08-24 22:40:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m Loaded CVE database with 5 software entries
+2025-08-24 22:40:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting comprehensive security assessment of canva.com
+2025-08-24 22:40:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting vulnerability scan for target: [36mcanva.com[0m
+2025-08-24 22:40:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:40:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 1: PORT SCANNING
+2025-08-24 22:40:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:40:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting port scan for canva.com
+2025-08-24 22:40:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scanning ports 1-1000 on canva.com
+2025-08-24 22:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m Port scan completed. Found 0 open ports
+2025-08-24 22:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scan completed for [36mcanva.com[0m in 135.82 seconds
+2025-08-24 22:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m Skipping SSL check (HTTPS port 443 not open)
+2025-08-24 22:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 3: SOFTWARE VERSION ANALYSIS
+2025-08-24 22:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m No services found for version checking
+2025-08-24 22:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 4: WEB VULNERABILITY SCANNING
+2025-08-24 22:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m No web services found for vulnerability scanning
+2025-08-24 22:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scan completed for [36mcanva.com[0m in 135.82 seconds
+2025-08-24 22:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m ============================================================
+2025-08-24 22:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m SCAN SUMMARY
+2025-08-24 22:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m ============================================================
+2025-08-24 22:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m Target: canva.com
+2025-08-24 22:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m Total Findings: 0
+2025-08-24 22:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scan Duration: 135.82 seconds
+2025-08-24 22:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m 
+2025-08-24 22:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m Risk Breakdown:
+2025-08-24 22:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m 
+2025-08-24 22:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m ============================================================
+2025-08-24 22:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generating security reports in: D:\VS Code\CyberSentinel
+2025-08-24 22:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generating HTML report: CyberSentinel_canva.com_20250824_224251.html
+2025-08-24 22:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m HTML report generated successfully: CyberSentinel_canva.com_20250824_224251.html
+2025-08-24 22:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m Reports generated: html
+2025-08-24 22:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m Security assessment completed successfully!
+2025-08-24 22:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generated reports:
+2025-08-24 22:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m   HTML: CyberSentinel_canva.com_20250824_224251.html
+2025-08-24 22:44:31 - CyberSentinel - [32mINFO[0m - [32m[+][0m Loaded CVE database with 5 software entries
+2025-08-24 22:44:31 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting comprehensive security assessment of canva.com
+2025-08-24 22:44:31 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting vulnerability scan for target: [36mcanva.com[0m
+2025-08-24 22:44:31 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:44:31 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 1: PORT SCANNING
+2025-08-24 22:44:31 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:44:31 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting port scan for canva.com
+2025-08-24 22:44:31 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scanning ports 1-1000 on canva.com
+2025-08-24 22:45:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m Port scan completed. Found 0 open ports
+2025-08-24 22:45:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scan completed for [36mcanva.com[0m in 64.61 seconds
+2025-08-24 22:45:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m Skipping SSL check (disabled by user)
+2025-08-24 22:45:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:45:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 3: SOFTWARE VERSION ANALYSIS
+2025-08-24 22:45:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:45:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m No services found for version checking
+2025-08-24 22:45:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m Skipping web vulnerability scan (disabled by user)
+2025-08-24 22:45:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scan completed for [36mcanva.com[0m in 64.61 seconds
+2025-08-24 22:45:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m ============================================================
+2025-08-24 22:45:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m SCAN SUMMARY
+2025-08-24 22:45:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m ============================================================
+2025-08-24 22:45:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m Target: canva.com
+2025-08-24 22:45:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m Total Findings: 0
+2025-08-24 22:45:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scan Duration: 64.61 seconds
+2025-08-24 22:45:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m 
+2025-08-24 22:45:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m Risk Breakdown:
+2025-08-24 22:45:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m 
+2025-08-24 22:45:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m ============================================================
+2025-08-24 22:45:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generating security reports in: D:\VS Code\CyberSentinel
+2025-08-24 22:45:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generating HTML report: CyberSentinel_canva.com_20250824_224535.html
+2025-08-24 22:45:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m HTML report generated successfully: CyberSentinel_canva.com_20250824_224535.html
+2025-08-24 22:45:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m Reports generated: html
+2025-08-24 22:45:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m Security assessment completed successfully!
+2025-08-24 22:45:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generated reports:
+2025-08-24 22:45:35 - CyberSentinel - [32mINFO[0m - [32m[+][0m   HTML: CyberSentinel_canva.com_20250824_224535.html
+2025-08-24 22:47:02 - CyberSentinel - [32mINFO[0m - [32m[+][0m Loaded CVE database with 5 software entries
+2025-08-24 22:47:02 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting comprehensive security assessment of 104.21.15.229
+2025-08-24 22:47:02 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting vulnerability scan for target: [36m104.21.15.229[0m
+2025-08-24 22:47:02 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:47:02 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 1: PORT SCANNING
+2025-08-24 22:47:02 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:47:02 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting port scan for 104.21.15.229
+2025-08-24 22:47:02 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scanning ports 1-1000 on 104.21.15.229
+2025-08-24 22:47:39 - CyberSentinel - [33mWARNING[0m - [33m[!][0m Open Port 80 (http) - [33mMedium Risk[0m
+2025-08-24 22:47:39 - CyberSentinel - [33mWARNING[0m - [33m[!][0m Open Port 443 (https) - [33mMedium Risk[0m
+2025-08-24 22:47:39 - CyberSentinel - [32mINFO[0m - [32m[+][0m OS Detection: FreeBSD 13.0-RELEASE (85% accuracy)
+2025-08-24 22:47:39 - CyberSentinel - [32mINFO[0m - [32m[+][0m Port scan completed. Found 2 open ports
+2025-08-24 22:47:39 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scan completed for [36m104.21.15.229[0m in 36.86 seconds
+2025-08-24 22:47:39 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:47:39 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 2: SSL/TLS SECURITY CHECK
+2025-08-24 22:47:39 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:47:39 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting SSL/TLS security check for 104.21.15.229:443
+2025-08-24 22:47:40 - CyberSentinel - [31mERROR[0m - [31m[-][0m Failed to get certificate info: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1006)
+2025-08-24 22:47:41 - CyberSentinel - DEBUG - [36m[DEBUG][0m Failed to get cipher suites: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1006)
+2025-08-24 22:47:42 - CyberSentinel - [32mINFO[0m - [32m[+][0m SSL/TLS check completed. Grade: A
+2025-08-24 22:47:42 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:47:42 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 3: SOFTWARE VERSION ANALYSIS
+2025-08-24 22:47:42 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:47:42 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting software version vulnerability check
+2025-08-24 22:47:42 - CyberSentinel - [32mINFO[0m - [32m[+][0m Version check completed. Found 0 vulnerable services
+2025-08-24 22:47:42 - CyberSentinel - [32mINFO[0m - [32m[+][0m Checking web application versions for 104.21.15.229:80
+2025-08-24 22:47:43 - CyberSentinel - [32mINFO[0m - [32m[+][0m Checking web application versions for 104.21.15.229:443
+2025-08-24 22:47:43 - CyberSentinel - [31mERROR[0m - [31m[-][0m Failed to check web application versions: HTTPSConnectionPool(host='104.21.15.229', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1006)')))
+2025-08-24 22:47:43 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:47:43 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 4: WEB VULNERABILITY SCANNING
+2025-08-24 22:47:43 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:47:43 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scanning web services on port 80
+2025-08-24 22:47:43 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting web vulnerability scan for 104.21.15.229:80
+2025-08-24 22:47:45 - CyberSentinel - [32mINFO[0m - [32m[+][0m Checking security headers
+2025-08-24 22:47:46 - CyberSentinel - [32mINFO[0m - [32m[+][0m Discovering forms for testing
+2025-08-24 22:47:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m Discovered 0 forms for testing
+2025-08-24 22:47:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m Testing for SQL injection vulnerabilities
+2025-08-24 22:47:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m Testing for XSS vulnerabilities
+2025-08-24 22:47:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m Testing for CSRF vulnerabilities
+2025-08-24 22:47:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m Testing for directory traversal vulnerabilities
+2025-08-24 22:48:42 - CyberSentinel - [32mINFO[0m - [32m[+][0m Testing for information disclosure
+2025-08-24 22:48:59 - CyberSentinel - [32mINFO[0m - [32m[+][0m Testing for common misconfigurations
+2025-08-24 22:49:04 - CyberSentinel - [32mINFO[0m - [32m[+][0m Web vulnerability scan completed in 80.85 seconds
+2025-08-24 22:49:04 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scanning web services on port 443
+2025-08-24 22:49:04 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting web vulnerability scan for 104.21.15.229:443
+2025-08-24 22:49:05 - CyberSentinel - DEBUG - [36m[DEBUG][0m Request failed for https://104.21.15.229:443: HTTPSConnectionPool(host='104.21.15.229', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1006)')))
+2025-08-24 22:49:05 - CyberSentinel - [31mERROR[0m - [31m[-][0m Cannot connect to https://104.21.15.229:443
+2025-08-24 22:49:05 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scan completed for [36m104.21.15.229[0m in 122.34 seconds
+2025-08-24 22:49:05 - CyberSentinel - [32mINFO[0m - [32m[+][0m ============================================================
+2025-08-24 22:49:05 - CyberSentinel - [32mINFO[0m - [32m[+][0m SCAN SUMMARY
+2025-08-24 22:49:05 - CyberSentinel - [32mINFO[0m - [32m[+][0m ============================================================
+2025-08-24 22:49:05 - CyberSentinel - [32mINFO[0m - [32m[+][0m Target: 104.21.15.229
+2025-08-24 22:49:05 - CyberSentinel - [32mINFO[0m - [32m[+][0m Total Findings: 2
+2025-08-24 22:49:05 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scan Duration: 122.34 seconds
+2025-08-24 22:49:05 - CyberSentinel - [32mINFO[0m - [32m[+][0m 
+2025-08-24 22:49:05 - CyberSentinel - [32mINFO[0m - [32m[+][0m Risk Breakdown:
+2025-08-24 22:49:05 - CyberSentinel - [32mINFO[0m - [32m[+][0m   Medium: 2
+2025-08-24 22:49:05 - CyberSentinel - [32mINFO[0m - [32m[+][0m 
+2025-08-24 22:49:05 - CyberSentinel - [32mINFO[0m - [32m[+][0m Top Security Risks:
+2025-08-24 22:49:05 - CyberSentinel - [33mWARNING[0m - [33m[!][0m 1. Open Port - http - [33mMedium Risk[0m
+2025-08-24 22:49:05 - CyberSentinel - [32mINFO[0m -     Details: Port 80/tcp (http) is open
+2025-08-24 22:49:05 - CyberSentinel - [33mWARNING[0m - [33m[!][0m 2. Open Port - https - [33mMedium Risk[0m
+2025-08-24 22:49:05 - CyberSentinel - [32mINFO[0m -     Details: Port 443/tcp (https) is open
+2025-08-24 22:49:05 - CyberSentinel - [32mINFO[0m - [32m[+][0m ============================================================
+2025-08-24 22:49:05 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generating security reports in: D:\VS Code\CyberSentinel
+2025-08-24 22:49:05 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generating HTML report: CyberSentinel_104.21.15.229_20250824_224905.html
+2025-08-24 22:49:05 - CyberSentinel - [32mINFO[0m - [32m[+][0m HTML report generated successfully: CyberSentinel_104.21.15.229_20250824_224905.html
+2025-08-24 22:49:05 - CyberSentinel - [32mINFO[0m - [32m[+][0m Reports generated: html
+2025-08-24 22:49:05 - CyberSentinel - [32mINFO[0m - [32m[+][0m Security assessment completed successfully!
+2025-08-24 22:49:05 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generated reports:
+2025-08-24 22:49:05 - CyberSentinel - [32mINFO[0m - [32m[+][0m   HTML: CyberSentinel_104.21.15.229_20250824_224905.html
+2025-08-24 22:53:49 - CyberSentinel - [32mINFO[0m - [32m[+][0m Loaded CVE database with 5 software entries
+2025-08-24 22:53:49 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting comprehensive security assessment of 104.21.15.229
+2025-08-24 22:53:49 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting vulnerability scan for target: [36m104.21.15.229[0m
+2025-08-24 22:53:49 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:53:49 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 1: PORT SCANNING
+2025-08-24 22:53:49 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:53:49 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting port scan for 104.21.15.229
+2025-08-24 22:53:49 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scanning ports 1-1000 on 104.21.15.229
+2025-08-24 22:54:31 - CyberSentinel - [33mWARNING[0m - [33m[!][0m Open Port 80 (http) - [33mMedium Risk[0m
+2025-08-24 22:54:31 - CyberSentinel - [33mWARNING[0m - [33m[!][0m Open Port 443 (https) - [33mMedium Risk[0m
+2025-08-24 22:54:31 - CyberSentinel - [32mINFO[0m - [32m[+][0m OS Detection: FreeBSD 13.0-RELEASE (86% accuracy)
+2025-08-24 22:54:31 - CyberSentinel - [32mINFO[0m - [32m[+][0m Port scan completed. Found 2 open ports
+2025-08-24 22:54:31 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scan completed for [36m104.21.15.229[0m in 41.27 seconds
+2025-08-24 22:54:31 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:54:31 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 2: SSL/TLS SECURITY CHECK
+2025-08-24 22:54:31 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:54:31 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting SSL/TLS security check for 104.21.15.229:443
+2025-08-24 22:54:31 - CyberSentinel - [31mERROR[0m - [31m[-][0m Failed to get certificate info: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1006)
+2025-08-24 22:54:33 - CyberSentinel - DEBUG - [36m[DEBUG][0m Failed to get cipher suites: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1006)
+2025-08-24 22:54:33 - CyberSentinel - [32mINFO[0m - [32m[+][0m SSL/TLS check completed. Grade: A
+2025-08-24 22:54:33 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:54:33 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 3: SOFTWARE VERSION ANALYSIS
+2025-08-24 22:54:33 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:54:33 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting software version vulnerability check
+2025-08-24 22:54:33 - CyberSentinel - [32mINFO[0m - [32m[+][0m Version check completed. Found 0 vulnerable services
+2025-08-24 22:54:33 - CyberSentinel - [32mINFO[0m - [32m[+][0m Checking web application versions for 104.21.15.229:80
+2025-08-24 22:54:34 - CyberSentinel - [32mINFO[0m - [32m[+][0m Checking web application versions for 104.21.15.229:443
+2025-08-24 22:54:34 - CyberSentinel - [31mERROR[0m - [31m[-][0m Failed to check web application versions: HTTPSConnectionPool(host='104.21.15.229', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1006)')))
+2025-08-24 22:54:34 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:54:34 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 4: WEB VULNERABILITY SCANNING
+2025-08-24 22:54:34 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:54:34 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scanning web services on port 80
+2025-08-24 22:54:34 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting web vulnerability scan for 104.21.15.229:80
+2025-08-24 22:54:36 - CyberSentinel - [32mINFO[0m - [32m[+][0m Checking security headers
+2025-08-24 22:54:37 - CyberSentinel - [32mINFO[0m - [32m[+][0m Discovering forms for testing
+2025-08-24 22:54:38 - CyberSentinel - [32mINFO[0m - [32m[+][0m Discovered 0 forms for testing
+2025-08-24 22:54:38 - CyberSentinel - [32mINFO[0m - [32m[+][0m Testing for SQL injection vulnerabilities
+2025-08-24 22:54:38 - CyberSentinel - [32mINFO[0m - [32m[+][0m Testing for XSS vulnerabilities
+2025-08-24 22:54:38 - CyberSentinel - [32mINFO[0m - [32m[+][0m Testing for CSRF vulnerabilities
+2025-08-24 22:54:38 - CyberSentinel - [32mINFO[0m - [32m[+][0m Testing for directory traversal vulnerabilities
+2025-08-24 22:55:28 - CyberSentinel - [32mINFO[0m - [32m[+][0m Testing for information disclosure
+2025-08-24 22:55:46 - CyberSentinel - [32mINFO[0m - [32m[+][0m Testing for common misconfigurations
+2025-08-24 22:55:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m Web vulnerability scan completed in 77.07 seconds
+2025-08-24 22:55:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scanning web services on port 443
+2025-08-24 22:55:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting web vulnerability scan for 104.21.15.229:443
+2025-08-24 22:55:52 - CyberSentinel - DEBUG - [36m[DEBUG][0m Request failed for https://104.21.15.229:443: HTTPSConnectionPool(host='104.21.15.229', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1006)')))
+2025-08-24 22:55:52 - CyberSentinel - [31mERROR[0m - [31m[-][0m Cannot connect to https://104.21.15.229:443
+2025-08-24 22:55:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scan completed for [36m104.21.15.229[0m in 122.49 seconds
+2025-08-24 22:55:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m ============================================================
+2025-08-24 22:55:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m SCAN SUMMARY
+2025-08-24 22:55:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m ============================================================
+2025-08-24 22:55:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m Target: 104.21.15.229
+2025-08-24 22:55:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m Total Findings: 2
+2025-08-24 22:55:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scan Duration: 122.49 seconds
+2025-08-24 22:55:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m 
+2025-08-24 22:55:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m Risk Breakdown:
+2025-08-24 22:55:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m   Medium: 2
+2025-08-24 22:55:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m 
+2025-08-24 22:55:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m Top Security Risks:
+2025-08-24 22:55:52 - CyberSentinel - [33mWARNING[0m - [33m[!][0m 1. Open Port - http - [33mMedium Risk[0m
+2025-08-24 22:55:52 - CyberSentinel - [32mINFO[0m -     Details: Port 80/tcp (http) is open
+2025-08-24 22:55:52 - CyberSentinel - [33mWARNING[0m - [33m[!][0m 2. Open Port - https - [33mMedium Risk[0m
+2025-08-24 22:55:52 - CyberSentinel - [32mINFO[0m -     Details: Port 443/tcp (https) is open
+2025-08-24 22:55:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m ============================================================
+2025-08-24 22:55:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generating security reports in: D:\VS Code\CyberSentinel\Result_file
+2025-08-24 22:55:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generating PDF report: Result_file\CyberSentinel_104.21.15.229_20250824_225552.pdf
+2025-08-24 22:55:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m PDF report generated successfully: Result_file\CyberSentinel_104.21.15.229_20250824_225552.pdf
+2025-08-24 22:55:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m Reports generated: pdf
+2025-08-24 22:55:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m Security assessment completed successfully!
+2025-08-24 22:55:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generated reports:
+2025-08-24 22:55:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m   PDF: Result_file\CyberSentinel_104.21.15.229_20250824_225552.pdf
