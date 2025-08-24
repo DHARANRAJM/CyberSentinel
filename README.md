@@ -1,6 +1,6 @@
 # 🛡️ CyberSentinel - Automated Vulnerability Assessment Tool
 
-**👨‍💻 Author: M DHARAN RAJ -- Web Developer ----- CISCO Trained & CISCO Certified Ethical Hacker----- 🔒**
+**👨‍💻 Author: M DHARAN RAJ -- Web Developer ----- CISCO Trained & CISCO Certified Ethical Hacker ----- 🔒**
 
 🌐 **Web Developer** | 🔐 **CISCO Certified** | ⚡ **Ethical Hacker** | 
 
