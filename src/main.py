@@ -15,18 +15,18 @@ from typing import Dict, Any, List
 import json
 
 # Import scanner modules
-from scanner.port_scanner import PortScanner
-from scanner.ssl_checker import SSLChecker
-from scanner.version_checker import VersionChecker
-from scanner.vuln_checker import VulnerabilityChecker
+from src.scanner.port_scanner import PortScanner
+from src.scanner.ssl_checker import SSLChecker
+from src.scanner.version_checker import VersionChecker
+from src.scanner.vuln_checker import VulnerabilityChecker
 
 # Import report generators
-from reports.pdf_report import PDFReportGenerator
-from reports.html_report import HTMLReportGenerator
+from src.reports.pdf_report import PDFReportGenerator
+from src.reports.html_report import HTMLReportGenerator
 
 # Import utilities
-from utils.logger import logger
-from utils.risk_engine import RiskEngine, RiskLevel
+from src.utils.logger import logger
+from src.utils.risk_engine import RiskEngine, RiskLevel
 
 class CyberSentinel:
     """Main CyberSentinel vulnerability assessment orchestrator"""
@@ -375,11 +375,15 @@ def main():
         logger.info(f"Starting comprehensive security assessment of {args.target}")
         scan_results = sentinel.run_comprehensive_scan(args.target, scan_options)
         
+        # Ensure output directory exists
+        output_dir = Path(args.output_dir or 'Result_file')
+        output_dir.mkdir(parents=True, exist_ok=True)
+        
         # Generate reports
         if not args.quiet:
-            logger.info("Generating security reports...")
+            logger.info(f"Generating security reports in: {output_dir.absolute()}")
         
-        generated_reports = sentinel.generate_reports(args.output, args.output_dir)
+        generated_reports = sentinel.generate_reports(args.output, str(output_dir))
         
         # Print report locations
         logger.info("Security assessment completed successfully!")

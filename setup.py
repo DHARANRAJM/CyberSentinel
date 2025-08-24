@@ -6,7 +6,8 @@ setup(
     description="Automated Vulnerability Assessment Tool",
     author="M DHARAN RAJ -- Web Developer------CISCO Trained & CISCO Certified Ethical Hacker-----",
     author_email="contact@cybersentinel.com",
-    packages=find_packages(),
+    packages=find_packages(where='src'),
+    package_dir={'': 'src'},
     install_requires=[
         "python-nmap>=1.6.0",
         "scapy>=2.5.0",

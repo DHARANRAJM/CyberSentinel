@@ -1,0 +1,268 @@
+2025-08-24 18:53:40 - CyberSentinel - [31mERROR[0m - [31m[-][0m Assessment failed: 'nmap program was not found in path. PATH is : C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\Eclipse Adoptium\\jre-17.0.8.101-hotspot\\bin;C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files\\Git\\cmd;C:\\Program Files\\dotnet\\;C:\\dart-sdk\\bin;C:\\Program Files\\nodejs\\;c:\\Users\\dhara\\AppData\\Local\\Programs\\cursor\\resources\\app\\bin;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\Users\\dhara\\.console-ninja\\.bin;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\dhara\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\dhara\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\dhara\\.dotnet\\tools;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\\Users\\dhara\\AppData\\Roaming\\npm;C:\\Users\\dhara\\AppData\\Local\\Programs\\Windsurf\\bin;c:\\Users\\dhara\\.windsurf\\extensions\\ms-python.debugpy-2025.6.0-win32-x64\\bundled\\scripts\\noConfigScripts'
+2025-08-24 19:16:13 - CyberSentinel - [31mERROR[0m - [31m[-][0m Assessment failed: 'nmap program was not found in path. PATH is : C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\Eclipse Adoptium\\jre-17.0.8.101-hotspot\\bin;C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files\\Git\\cmd;C:\\Program Files\\dotnet\\;C:\\dart-sdk\\bin;C:\\Program Files\\nodejs\\;c:\\Users\\dhara\\AppData\\Local\\Programs\\cursor\\resources\\app\\bin;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\Users\\dhara\\.console-ninja\\.bin;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\dhara\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\dhara\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\dhara\\.dotnet\\tools;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\\Users\\dhara\\AppData\\Roaming\\npm;C:\\Users\\dhara\\AppData\\Local\\Programs\\Windsurf\\bin;c:\\Users\\dhara\\.windsurf\\extensions\\ms-python.debugpy-2025.6.0-win32-x64\\bundled\\scripts\\noConfigScripts'
+2025-08-24 19:16:39 - CyberSentinel - [31mERROR[0m - [31m[-][0m Assessment failed: 'nmap program was not found in path. PATH is : C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\Eclipse Adoptium\\jre-17.0.8.101-hotspot\\bin;C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files\\Git\\cmd;C:\\Program Files\\dotnet\\;C:\\dart-sdk\\bin;C:\\Program Files\\nodejs\\;c:\\Users\\dhara\\AppData\\Local\\Programs\\cursor\\resources\\app\\bin;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\Users\\dhara\\.console-ninja\\.bin;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\dhara\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\dhara\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\dhara\\.dotnet\\tools;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\\Users\\dhara\\AppData\\Roaming\\npm;C:\\Users\\dhara\\AppData\\Local\\Programs\\Windsurf\\bin;c:\\Users\\dhara\\.windsurf\\extensions\\ms-python.debugpy-2025.6.0-win32-x64\\bundled\\scripts\\noConfigScripts'
+2025-08-24 19:18:00 - CyberSentinel - [31mERROR[0m - [31m[-][0m Assessment failed: 'nmap program was not found in path. PATH is : C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\Eclipse Adoptium\\jre-17.0.8.101-hotspot\\bin;C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files\\Git\\cmd;C:\\Program Files\\dotnet\\;C:\\dart-sdk\\bin;C:\\Program Files\\nodejs\\;c:\\Users\\dhara\\AppData\\Local\\Programs\\cursor\\resources\\app\\bin;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\Users\\dhara\\.console-ninja\\.bin;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\dhara\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\dhara\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\dhara\\.dotnet\\tools;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\\Users\\dhara\\AppData\\Roaming\\npm;C:\\Users\\dhara\\AppData\\Local\\Programs\\Windsurf\\bin;c:\\Users\\dhara\\.windsurf\\extensions\\ms-python.debugpy-2025.6.0-win32-x64\\bundled\\scripts\\noConfigScripts'
+2025-08-24 19:36:21 - CyberSentinel - [31mERROR[0m - [31m[-][0m Assessment failed: 'nmap program was not found in path. PATH is : D:\\VS Code\\CyberSentinel\\venv\\Scripts;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\Eclipse Adoptium\\jre-17.0.8.101-hotspot\\bin;C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files\\Git\\cmd;C:\\Program Files\\dotnet\\;C:\\dart-sdk\\bin;C:\\Program Files\\nodejs\\;c:\\Users\\dhara\\AppData\\Local\\Programs\\cursor\\resources\\app\\bin;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\Users\\dhara\\.console-ninja\\.bin;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\dhara\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\dhara\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\dhara\\.dotnet\\tools;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\\Users\\dhara\\AppData\\Roaming\\npm;C:\\Users\\dhara\\AppData\\Local\\Programs\\Windsurf\\bin'
+2025-08-24 19:40:35 - CyberSentinel - [31mERROR[0m - [31m[-][0m Assessment failed: 'nmap program was not found in path. PATH is : D:\\VS Code\\CyberSentinel\\venv\\Scripts;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\Eclipse Adoptium\\jre-17.0.8.101-hotspot\\bin;C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files\\Git\\cmd;C:\\Program Files\\dotnet\\;C:\\dart-sdk\\bin;C:\\Program Files\\nodejs\\;c:\\Users\\dhara\\AppData\\Local\\Programs\\cursor\\resources\\app\\bin;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\Users\\dhara\\.console-ninja\\.bin;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\dhara\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\dhara\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\dhara\\.dotnet\\tools;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\\Users\\dhara\\AppData\\Roaming\\npm;C:\\Users\\dhara\\AppData\\Local\\Programs\\Windsurf\\bin'
+2025-08-24 20:31:47 - CyberSentinel - [31mERROR[0m - [31m[-][0m Assessment failed: 'nmap program was not found in path. PATH is : D:\\VS Code\\CyberSentinel\\venv\\Scripts;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\Eclipse Adoptium\\jre-17.0.8.101-hotspot\\bin;C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files\\Git\\cmd;C:\\Program Files\\dotnet\\;C:\\dart-sdk\\bin;C:\\Program Files\\nodejs\\;c:\\Users\\dhara\\AppData\\Local\\Programs\\cursor\\resources\\app\\bin;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\Users\\dhara\\.console-ninja\\.bin;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\dhara\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\dhara\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\dhara\\.dotnet\\tools;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\\Users\\dhara\\AppData\\Roaming\\npm;C:\\Users\\dhara\\AppData\\Local\\Programs\\Windsurf\\bin'
+2025-08-24 20:43:31 - CyberSentinel - [31mERROR[0m - [31m[-][0m Assessment failed: 'nmap program was not found in path. PATH is : D:\\VS Code\\CyberSentinel\\venv\\Scripts;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\Eclipse Adoptium\\jre-17.0.8.101-hotspot\\bin;C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files\\Git\\cmd;C:\\Program Files\\dotnet\\;C:\\dart-sdk\\bin;C:\\Program Files\\nodejs\\;c:\\Users\\dhara\\AppData\\Local\\Programs\\cursor\\resources\\app\\bin;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\Users\\dhara\\.console-ninja\\.bin;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\dhara\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\dhara\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\dhara\\.dotnet\\tools;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\\Users\\dhara\\AppData\\Roaming\\npm;C:\\Users\\dhara\\AppData\\Local\\Programs\\Windsurf\\bin'
+2025-08-24 20:45:28 - CyberSentinel - [32mINFO[0m - [32m[+][0m Loaded CVE database with 5 software entries
+2025-08-24 20:45:28 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting comprehensive security assessment of google.com
+2025-08-24 20:45:28 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting vulnerability scan for target: [36mgoogle.com[0m
+2025-08-24 20:45:28 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 20:45:28 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 1: PORT SCANNING
+2025-08-24 20:45:28 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 20:45:28 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting port scan for google.com
+2025-08-24 20:45:28 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scanning ports 1-1000 on google.com
+2025-08-24 20:46:22 - CyberSentinel - [32mINFO[0m - [32m[+][0m Port scan completed. Found 0 open ports
+2025-08-24 20:46:22 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scan completed for [36mgoogle.com[0m in 54.21 seconds
+2025-08-24 20:46:22 - CyberSentinel - [32mINFO[0m - [32m[+][0m Skipping SSL check (HTTPS port 443 not open)
+2025-08-24 20:46:22 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 20:46:22 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 3: SOFTWARE VERSION ANALYSIS
+2025-08-24 20:46:22 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 20:46:22 - CyberSentinel - [32mINFO[0m - [32m[+][0m No services found for version checking
+2025-08-24 20:46:22 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 20:46:22 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 4: WEB VULNERABILITY SCANNING
+2025-08-24 20:46:22 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 20:46:22 - CyberSentinel - [32mINFO[0m - [32m[+][0m No web services found for vulnerability scanning
+2025-08-24 20:46:22 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scan completed for [36mgoogle.com[0m in 54.21 seconds
+2025-08-24 20:46:22 - CyberSentinel - [32mINFO[0m - [32m[+][0m ============================================================
+2025-08-24 20:46:22 - CyberSentinel - [32mINFO[0m - [32m[+][0m SCAN SUMMARY
+2025-08-24 20:46:22 - CyberSentinel - [32mINFO[0m - [32m[+][0m ============================================================
+2025-08-24 20:46:22 - CyberSentinel - [32mINFO[0m - [32m[+][0m Target: google.com
+2025-08-24 20:46:22 - CyberSentinel - [32mINFO[0m - [32m[+][0m Total Findings: 0
+2025-08-24 20:46:22 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scan Duration: 54.21 seconds
+2025-08-24 20:46:22 - CyberSentinel - [32mINFO[0m - [32m[+][0m 
+2025-08-24 20:46:22 - CyberSentinel - [32mINFO[0m - [32m[+][0m Risk Breakdown:
+2025-08-24 20:46:22 - CyberSentinel - [32mINFO[0m - [32m[+][0m 
+2025-08-24 20:46:22 - CyberSentinel - [32mINFO[0m - [32m[+][0m ============================================================
+2025-08-24 20:46:22 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generating security reports...
+2025-08-24 20:46:22 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generating HTML report: CyberSentinel_google.com_20250824_204622.html
+2025-08-24 20:46:22 - CyberSentinel - [32mINFO[0m - [32m[+][0m HTML report generated successfully: CyberSentinel_google.com_20250824_204622.html
+2025-08-24 20:46:22 - CyberSentinel - [32mINFO[0m - [32m[+][0m Reports generated: html
+2025-08-24 20:46:22 - CyberSentinel - [32mINFO[0m - [32m[+][0m Security assessment completed successfully!
+2025-08-24 20:46:22 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generated reports:
+2025-08-24 20:46:22 - CyberSentinel - [32mINFO[0m - [32m[+][0m   HTML: CyberSentinel_google.com_20250824_204622.html
+2025-08-24 21:29:49 - CyberSentinel - [31mERROR[0m - [31m[-][0m Assessment failed: 'nmap program was not found in path. PATH is : C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\Eclipse Adoptium\\jre-17.0.8.101-hotspot\\bin;C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files\\Git\\cmd;C:\\Program Files\\dotnet\\;C:\\dart-sdk\\bin;C:\\Program Files\\nodejs\\;c:\\Users\\dhara\\AppData\\Local\\Programs\\cursor\\resources\\app\\bin;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\Users\\dhara\\.console-ninja\\.bin;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\dhara\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\dhara\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\dhara\\.dotnet\\tools;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\\Users\\dhara\\AppData\\Roaming\\npm;C:\\Users\\dhara\\AppData\\Local\\Programs\\Windsurf\\bin;c:\\Users\\dhara\\.windsurf\\extensions\\ms-python.debugpy-2025.6.0-win32-x64\\bundled\\scripts\\noConfigScripts'
+2025-08-24 21:30:05 - CyberSentinel - [31mERROR[0m - [31m[-][0m Assessment failed: 'nmap program was not found in path. PATH is : C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\Eclipse Adoptium\\jre-17.0.8.101-hotspot\\bin;C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files\\Git\\cmd;C:\\Program Files\\dotnet\\;C:\\dart-sdk\\bin;C:\\Program Files\\nodejs\\;c:\\Users\\dhara\\AppData\\Local\\Programs\\cursor\\resources\\app\\bin;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\Users\\dhara\\.console-ninja\\.bin;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\dhara\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\dhara\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\dhara\\.dotnet\\tools;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\\Users\\dhara\\AppData\\Roaming\\npm;C:\\Users\\dhara\\AppData\\Local\\Programs\\Windsurf\\bin;c:\\Users\\dhara\\.windsurf\\extensions\\ms-python.debugpy-2025.6.0-win32-x64\\bundled\\scripts\\noConfigScripts'
+2025-08-24 21:30:11 - CyberSentinel - [31mERROR[0m - [31m[-][0m Assessment failed: 'nmap program was not found in path. PATH is : C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\Eclipse Adoptium\\jre-17.0.8.101-hotspot\\bin;C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files\\Git\\cmd;C:\\Program Files\\dotnet\\;C:\\dart-sdk\\bin;C:\\Program Files\\nodejs\\;c:\\Users\\dhara\\AppData\\Local\\Programs\\cursor\\resources\\app\\bin;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\Users\\dhara\\.console-ninja\\.bin;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\dhara\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\dhara\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\dhara\\.dotnet\\tools;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\\Users\\dhara\\AppData\\Roaming\\npm;C:\\Users\\dhara\\AppData\\Local\\Programs\\Windsurf\\bin;c:\\Users\\dhara\\.windsurf\\extensions\\ms-python.debugpy-2025.6.0-win32-x64\\bundled\\scripts\\noConfigScripts'
+2025-08-24 21:31:54 - CyberSentinel - [31mERROR[0m - [31m[-][0m Assessment failed: 'nmap program was not found in path. PATH is : C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\Eclipse Adoptium\\jre-17.0.8.101-hotspot\\bin;C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files\\Git\\cmd;C:\\Program Files\\dotnet\\;C:\\dart-sdk\\bin;C:\\Program Files\\nodejs\\;c:\\Users\\dhara\\AppData\\Local\\Programs\\cursor\\resources\\app\\bin;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\Users\\dhara\\.console-ninja\\.bin;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\dhara\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\dhara\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\dhara\\.dotnet\\tools;C:\\Users\\dhara\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\\Users\\dhara\\AppData\\Roaming\\npm;C:\\Users\\dhara\\AppData\\Local\\Programs\\Windsurf\\bin;c:\\Users\\dhara\\.windsurf\\extensions\\ms-python.debugpy-2025.6.0-win32-x64\\bundled\\scripts\\noConfigScripts'
+2025-08-24 21:33:30 - CyberSentinel - [32mINFO[0m - [32m[+][0m Loaded CVE database with 5 software entries
+2025-08-24 21:33:30 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting comprehensive security assessment of bhc.edu.in
+2025-08-24 21:33:30 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting vulnerability scan for target: [36mbhc.edu.in[0m
+2025-08-24 21:33:30 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 21:33:30 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 1: PORT SCANNING
+2025-08-24 21:33:30 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 21:33:30 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting port scan for bhc.edu.in
+2025-08-24 21:33:30 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scanning ports 1-1000 on bhc.edu.in
+2025-08-24 21:34:07 - CyberSentinel - [32mINFO[0m - [32m[+][0m Port scan completed. Found 0 open ports
+2025-08-24 21:34:07 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scan completed for [36mbhc.edu.in[0m in 37.00 seconds
+2025-08-24 21:34:07 - CyberSentinel - [32mINFO[0m - [32m[+][0m Skipping SSL check (HTTPS port 443 not open)
+2025-08-24 21:34:07 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 21:34:07 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 3: SOFTWARE VERSION ANALYSIS
+2025-08-24 21:34:07 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 21:34:07 - CyberSentinel - [32mINFO[0m - [32m[+][0m No services found for version checking
+2025-08-24 21:34:07 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 21:34:07 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 4: WEB VULNERABILITY SCANNING
+2025-08-24 21:34:07 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 21:34:07 - CyberSentinel - [32mINFO[0m - [32m[+][0m No web services found for vulnerability scanning
+2025-08-24 21:34:07 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scan completed for [36mbhc.edu.in[0m in 37.01 seconds
+2025-08-24 21:34:07 - CyberSentinel - [32mINFO[0m - [32m[+][0m ============================================================
+2025-08-24 21:34:07 - CyberSentinel - [32mINFO[0m - [32m[+][0m SCAN SUMMARY
+2025-08-24 21:34:07 - CyberSentinel - [32mINFO[0m - [32m[+][0m ============================================================
+2025-08-24 21:34:07 - CyberSentinel - [32mINFO[0m - [32m[+][0m Target: bhc.edu.in
+2025-08-24 21:34:07 - CyberSentinel - [32mINFO[0m - [32m[+][0m Total Findings: 0
+2025-08-24 21:34:07 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scan Duration: 37.01 seconds
+2025-08-24 21:34:07 - CyberSentinel - [32mINFO[0m - [32m[+][0m 
+2025-08-24 21:34:07 - CyberSentinel - [32mINFO[0m - [32m[+][0m Risk Breakdown:
+2025-08-24 21:34:07 - CyberSentinel - [32mINFO[0m - [32m[+][0m 
+2025-08-24 21:34:07 - CyberSentinel - [32mINFO[0m - [32m[+][0m ============================================================
+2025-08-24 21:34:07 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generating security reports...
+2025-08-24 21:34:07 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generating HTML report: CyberSentinel_bhc.edu.in_20250824_213407.html
+2025-08-24 21:34:07 - CyberSentinel - [32mINFO[0m - [32m[+][0m HTML report generated successfully: CyberSentinel_bhc.edu.in_20250824_213407.html
+2025-08-24 21:34:07 - CyberSentinel - [32mINFO[0m - [32m[+][0m Reports generated: html
+2025-08-24 21:34:07 - CyberSentinel - [32mINFO[0m - [32m[+][0m Security assessment completed successfully!
+2025-08-24 21:34:07 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generated reports:
+2025-08-24 21:34:07 - CyberSentinel - [32mINFO[0m - [32m[+][0m   HTML: CyberSentinel_bhc.edu.in_20250824_213407.html
+2025-08-24 21:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m Loaded CVE database with 5 software entries
+2025-08-24 21:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting comprehensive security assessment of 104.21.15.229
+2025-08-24 21:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting vulnerability scan for target: [36m104.21.15.229[0m
+2025-08-24 21:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 21:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 1: PORT SCANNING
+2025-08-24 21:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 21:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting port scan for 104.21.15.229
+2025-08-24 21:42:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scanning ports 1-1000 on 104.21.15.229
+2025-08-24 21:43:32 - CyberSentinel - [33mWARNING[0m - [33m[!][0m Open Port 80 (http) - [33mMedium Risk[0m
+2025-08-24 21:43:32 - CyberSentinel - [33mWARNING[0m - [33m[!][0m Open Port 443 (https) - [33mMedium Risk[0m
+2025-08-24 21:43:32 - CyberSentinel - [32mINFO[0m - [32m[+][0m OS Detection: FreeBSD 13.0-RELEASE (85% accuracy)
+2025-08-24 21:43:32 - CyberSentinel - [32mINFO[0m - [32m[+][0m Port scan completed. Found 2 open ports
+2025-08-24 21:43:32 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scan completed for [36m104.21.15.229[0m in 40.84 seconds
+2025-08-24 21:43:32 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 21:43:32 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 2: SSL/TLS SECURITY CHECK
+2025-08-24 21:43:32 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 21:43:32 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting SSL/TLS security check for 104.21.15.229:443
+2025-08-24 21:43:33 - CyberSentinel - [31mERROR[0m - [31m[-][0m Failed to get certificate info: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1006)
+2025-08-24 21:43:35 - CyberSentinel - DEBUG - [36m[DEBUG][0m Failed to get cipher suites: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1006)
+2025-08-24 21:43:36 - CyberSentinel - [32mINFO[0m - [32m[+][0m SSL/TLS check completed. Grade: A
+2025-08-24 21:43:36 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 21:43:36 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 3: SOFTWARE VERSION ANALYSIS
+2025-08-24 21:43:36 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 21:43:36 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting software version vulnerability check
+2025-08-24 21:43:36 - CyberSentinel - [32mINFO[0m - [32m[+][0m Version check completed. Found 0 vulnerable services
+2025-08-24 21:43:36 - CyberSentinel - [32mINFO[0m - [32m[+][0m Checking web application versions for 104.21.15.229:80
+2025-08-24 21:43:37 - CyberSentinel - [32mINFO[0m - [32m[+][0m Checking web application versions for 104.21.15.229:443
+2025-08-24 21:43:37 - CyberSentinel - [31mERROR[0m - [31m[-][0m Failed to check web application versions: HTTPSConnectionPool(host='104.21.15.229', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1006)')))
+2025-08-24 21:43:37 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 21:43:37 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 4: WEB VULNERABILITY SCANNING
+2025-08-24 21:43:37 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 21:43:37 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scanning web services on port 80
+2025-08-24 21:43:37 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting web vulnerability scan for 104.21.15.229:80
+2025-08-24 21:43:39 - CyberSentinel - [32mINFO[0m - [32m[+][0m Checking security headers
+2025-08-24 21:43:40 - CyberSentinel - [32mINFO[0m - [32m[+][0m Discovering forms for testing
+2025-08-24 21:43:42 - CyberSentinel - [32mINFO[0m - [32m[+][0m Discovered 0 forms for testing
+2025-08-24 21:43:42 - CyberSentinel - [32mINFO[0m - [32m[+][0m Testing for SQL injection vulnerabilities
+2025-08-24 21:43:42 - CyberSentinel - [32mINFO[0m - [32m[+][0m Testing for XSS vulnerabilities
+2025-08-24 21:43:42 - CyberSentinel - [32mINFO[0m - [32m[+][0m Testing for CSRF vulnerabilities
+2025-08-24 21:43:42 - CyberSentinel - [32mINFO[0m - [32m[+][0m Testing for directory traversal vulnerabilities
+2025-08-24 21:44:31 - CyberSentinel - [32mINFO[0m - [32m[+][0m Testing for information disclosure
+2025-08-24 21:44:46 - CyberSentinel - [32mINFO[0m - [32m[+][0m Testing for common misconfigurations
+2025-08-24 21:44:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m Web vulnerability scan completed in 73.97 seconds
+2025-08-24 21:44:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scanning web services on port 443
+2025-08-24 21:44:51 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting web vulnerability scan for 104.21.15.229:443
+2025-08-24 21:44:52 - CyberSentinel - DEBUG - [36m[DEBUG][0m Request failed for https://104.21.15.229:443: HTTPSConnectionPool(host='104.21.15.229', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1006)')))
+2025-08-24 21:44:52 - CyberSentinel - [31mERROR[0m - [31m[-][0m Cannot connect to https://104.21.15.229:443
+2025-08-24 21:44:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scan completed for [36m104.21.15.229[0m in 120.47 seconds
+2025-08-24 21:44:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m ============================================================
+2025-08-24 21:44:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m SCAN SUMMARY
+2025-08-24 21:44:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m ============================================================
+2025-08-24 21:44:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m Target: 104.21.15.229
+2025-08-24 21:44:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m Total Findings: 2
+2025-08-24 21:44:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scan Duration: 120.47 seconds
+2025-08-24 21:44:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m 
+2025-08-24 21:44:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m Risk Breakdown:
+2025-08-24 21:44:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m   Medium: 2
+2025-08-24 21:44:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m 
+2025-08-24 21:44:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m Top Security Risks:
+2025-08-24 21:44:52 - CyberSentinel - [33mWARNING[0m - [33m[!][0m 1. Open Port - http - [33mMedium Risk[0m
+2025-08-24 21:44:52 - CyberSentinel - [32mINFO[0m -     Details: Port 80/tcp (http) is open
+2025-08-24 21:44:52 - CyberSentinel - [33mWARNING[0m - [33m[!][0m 2. Open Port - https - [33mMedium Risk[0m
+2025-08-24 21:44:52 - CyberSentinel - [32mINFO[0m -     Details: Port 443/tcp (https) is open
+2025-08-24 21:44:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m ============================================================
+2025-08-24 21:44:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generating security reports in: D:\VS Code\CyberSentinel\path\to\your\custom\directory
+2025-08-24 21:44:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generating HTML report: path\to\your\custom\directory\CyberSentinel_104.21.15.229_20250824_214452.html
+2025-08-24 21:44:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m HTML report generated successfully: path\to\your\custom\directory\CyberSentinel_104.21.15.229_20250824_214452.html
+2025-08-24 21:44:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m Reports generated: html
+2025-08-24 21:44:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m Security assessment completed successfully!
+2025-08-24 21:44:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generated reports:
+2025-08-24 21:44:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m   HTML: path\to\your\custom\directory\CyberSentinel_104.21.15.229_20250824_214452.html
+2025-08-24 21:57:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m Loaded CVE database with 5 software entries
+2025-08-24 21:57:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting comprehensive security assessment of youtube.com
+2025-08-24 21:57:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting vulnerability scan for target: [36myoutube.com[0m
+2025-08-24 21:57:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 21:57:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 1: PORT SCANNING
+2025-08-24 21:57:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 21:57:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting port scan for youtube.com
+2025-08-24 21:57:09 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scanning ports 1-1000 on youtube.com
+2025-08-24 21:57:56 - CyberSentinel - [32mINFO[0m - [32m[+][0m Port scan completed. Found 0 open ports
+2025-08-24 21:57:56 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scan completed for [36myoutube.com[0m in 46.77 seconds
+2025-08-24 21:57:56 - CyberSentinel - [32mINFO[0m - [32m[+][0m Skipping SSL check (HTTPS port 443 not open)
+2025-08-24 21:57:56 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 21:57:56 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 3: SOFTWARE VERSION ANALYSIS
+2025-08-24 21:57:56 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 21:57:56 - CyberSentinel - [32mINFO[0m - [32m[+][0m No services found for version checking
+2025-08-24 21:57:56 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 21:57:56 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 4: WEB VULNERABILITY SCANNING
+2025-08-24 21:57:56 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 21:57:56 - CyberSentinel - [32mINFO[0m - [32m[+][0m No web services found for vulnerability scanning
+2025-08-24 21:57:56 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scan completed for [36myoutube.com[0m in 46.77 seconds
+2025-08-24 21:57:56 - CyberSentinel - [32mINFO[0m - [32m[+][0m ============================================================
+2025-08-24 21:57:56 - CyberSentinel - [32mINFO[0m - [32m[+][0m SCAN SUMMARY
+2025-08-24 21:57:56 - CyberSentinel - [32mINFO[0m - [32m[+][0m ============================================================
+2025-08-24 21:57:56 - CyberSentinel - [32mINFO[0m - [32m[+][0m Target: youtube.com
+2025-08-24 21:57:56 - CyberSentinel - [32mINFO[0m - [32m[+][0m Total Findings: 0
+2025-08-24 21:57:56 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scan Duration: 46.77 seconds
+2025-08-24 21:57:56 - CyberSentinel - [32mINFO[0m - [32m[+][0m 
+2025-08-24 21:57:56 - CyberSentinel - [32mINFO[0m - [32m[+][0m Risk Breakdown:
+2025-08-24 21:57:56 - CyberSentinel - [32mINFO[0m - [32m[+][0m 
+2025-08-24 21:57:56 - CyberSentinel - [32mINFO[0m - [32m[+][0m ============================================================
+2025-08-24 21:57:56 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generating security reports in: D:\VS Code\CyberSentinel
+2025-08-24 21:57:56 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generating HTML report: CyberSentinel_youtube.com_20250824_215756.html
+2025-08-24 21:57:56 - CyberSentinel - [32mINFO[0m - [32m[+][0m HTML report generated successfully: CyberSentinel_youtube.com_20250824_215756.html
+2025-08-24 21:57:56 - CyberSentinel - [32mINFO[0m - [32m[+][0m Reports generated: html
+2025-08-24 21:57:56 - CyberSentinel - [32mINFO[0m - [32m[+][0m Security assessment completed successfully!
+2025-08-24 21:57:56 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generated reports:
+2025-08-24 21:57:56 - CyberSentinel - [32mINFO[0m - [32m[+][0m   HTML: CyberSentinel_youtube.com_20250824_215756.html
+2025-08-24 21:58:43 - CyberSentinel - [32mINFO[0m - [32m[+][0m Loaded CVE database with 5 software entries
+2025-08-24 21:58:43 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting comprehensive security assessment of arunjunaitraders.com
+2025-08-24 21:58:43 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting vulnerability scan for target: [36marunjunaitraders.com[0m
+2025-08-24 21:58:43 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 21:58:43 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 1: PORT SCANNING
+2025-08-24 21:58:43 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 21:58:43 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting port scan for arunjunaitraders.com
+2025-08-24 21:58:43 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scanning ports 1-1000 on arunjunaitraders.com
+2025-08-24 21:59:11 - CyberSentinel - [32mINFO[0m - [32m[+][0m Port scan completed. Found 0 open ports
+2025-08-24 21:59:11 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scan completed for [36marunjunaitraders.com[0m in 28.03 seconds
+2025-08-24 21:59:11 - CyberSentinel - [32mINFO[0m - [32m[+][0m Skipping SSL check (HTTPS port 443 not open)
+2025-08-24 21:59:11 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 21:59:11 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 3: SOFTWARE VERSION ANALYSIS
+2025-08-24 21:59:11 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 21:59:11 - CyberSentinel - [32mINFO[0m - [32m[+][0m No services found for version checking
+2025-08-24 21:59:11 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 21:59:11 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 4: WEB VULNERABILITY SCANNING
+2025-08-24 21:59:11 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 21:59:11 - CyberSentinel - [32mINFO[0m - [32m[+][0m No web services found for vulnerability scanning
+2025-08-24 21:59:11 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scan completed for [36marunjunaitraders.com[0m in 28.04 seconds
+2025-08-24 21:59:11 - CyberSentinel - [32mINFO[0m - [32m[+][0m ============================================================
+2025-08-24 21:59:11 - CyberSentinel - [32mINFO[0m - [32m[+][0m SCAN SUMMARY
+2025-08-24 21:59:11 - CyberSentinel - [32mINFO[0m - [32m[+][0m ============================================================
+2025-08-24 21:59:11 - CyberSentinel - [32mINFO[0m - [32m[+][0m Target: arunjunaitraders.com
+2025-08-24 21:59:11 - CyberSentinel - [32mINFO[0m - [32m[+][0m Total Findings: 0
+2025-08-24 21:59:11 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scan Duration: 28.04 seconds
+2025-08-24 21:59:11 - CyberSentinel - [32mINFO[0m - [32m[+][0m 
+2025-08-24 21:59:11 - CyberSentinel - [32mINFO[0m - [32m[+][0m Risk Breakdown:
+2025-08-24 21:59:11 - CyberSentinel - [32mINFO[0m - [32m[+][0m 
+2025-08-24 21:59:11 - CyberSentinel - [32mINFO[0m - [32m[+][0m ============================================================
+2025-08-24 21:59:11 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generating security reports in: D:\VS Code\CyberSentinel
+2025-08-24 21:59:11 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generating HTML report: CyberSentinel_arunjunaitraders.com_20250824_215911.html
+2025-08-24 21:59:11 - CyberSentinel - [32mINFO[0m - [32m[+][0m HTML report generated successfully: CyberSentinel_arunjunaitraders.com_20250824_215911.html
+2025-08-24 21:59:11 - CyberSentinel - [32mINFO[0m - [32m[+][0m Reports generated: html
+2025-08-24 21:59:11 - CyberSentinel - [32mINFO[0m - [32m[+][0m Security assessment completed successfully!
+2025-08-24 21:59:11 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generated reports:
+2025-08-24 21:59:11 - CyberSentinel - [32mINFO[0m - [32m[+][0m   HTML: CyberSentinel_arunjunaitraders.com_20250824_215911.html
+2025-08-24 22:00:15 - CyberSentinel - [32mINFO[0m - [32m[+][0m Loaded CVE database with 5 software entries
+2025-08-24 22:00:15 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting comprehensive security assessment of arunjunaitraders.com
+2025-08-24 22:00:15 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting vulnerability scan for target: [36marunjunaitraders.com[0m
+2025-08-24 22:00:15 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:00:15 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 1: PORT SCANNING
+2025-08-24 22:00:15 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:00:15 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting port scan for arunjunaitraders.com
+2025-08-24 22:00:15 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scanning ports 1-1000 on arunjunaitraders.com
+2025-08-24 22:00:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m Port scan completed. Found 0 open ports
+2025-08-24 22:00:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scan completed for [36marunjunaitraders.com[0m in 33.17 seconds
+2025-08-24 22:00:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m Skipping SSL check (HTTPS port 443 not open)
+2025-08-24 22:00:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:00:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 3: SOFTWARE VERSION ANALYSIS
+2025-08-24 22:00:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:00:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m No services found for version checking
+2025-08-24 22:00:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:00:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 4: WEB VULNERABILITY SCANNING
+2025-08-24 22:00:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-08-24 22:00:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m No web services found for vulnerability scanning
+2025-08-24 22:00:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scan completed for [36marunjunaitraders.com[0m in 33.18 seconds
+2025-08-24 22:00:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m ============================================================
+2025-08-24 22:00:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m SCAN SUMMARY
+2025-08-24 22:00:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m ============================================================
+2025-08-24 22:00:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m Target: arunjunaitraders.com
+2025-08-24 22:00:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m Total Findings: 0
+2025-08-24 22:00:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scan Duration: 33.18 seconds
+2025-08-24 22:00:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m 
+2025-08-24 22:00:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m Risk Breakdown:
+2025-08-24 22:00:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m 
+2025-08-24 22:00:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m ============================================================
+2025-08-24 22:00:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generating security reports in: D:\VS Code\CyberSentinel\Result_file
+2025-08-24 22:00:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generating HTML report: Result_file\CyberSentinel_arunjunaitraders.com_20250824_220048.html
+2025-08-24 22:00:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m HTML report generated successfully: Result_file\CyberSentinel_arunjunaitraders.com_20250824_220048.html
+2025-08-24 22:00:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m Reports generated: html
+2025-08-24 22:00:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m Security assessment completed successfully!
+2025-08-24 22:00:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generated reports:
+2025-08-24 22:00:48 - CyberSentinel - [32mINFO[0m - [32m[+][0m   HTML: Result_file\CyberSentinel_arunjunaitraders.com_20250824_220048.html

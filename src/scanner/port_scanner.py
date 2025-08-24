@@ -17,8 +17,8 @@ import json
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-from utils.logger import logger
-from utils.risk_engine import RiskEngine, VulnerabilityFinding, RiskLevel
+from ..utils.logger import logger
+from ..utils.risk_engine import RiskEngine, VulnerabilityFinding, RiskLevel
 
 class PortScanner:
     """Network port scanner using nmap and custom socket scanning"""

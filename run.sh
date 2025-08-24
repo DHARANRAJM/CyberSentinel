@@ -16,11 +16,15 @@ NC='\033[0m' # No Color
 # Banner
 echo -e "${PURPLE}"
 echo "╔═══════════════════════════════════════════════════════════╗"
-echo "║                    🛡️  CyberSentinel 🛡️                    ║"
+echo "║                    🛡️  CyberSentinel 🛡️                  ║"
 echo "║            Automated Vulnerability Assessment Tool        ║"
 echo "║                                                           ║"
-echo "║  ⚠️  FOR AUTHORIZED TESTING ONLY ⚠️                       ║"
-echo "║  Only scan systems you own or have explicit permission   ║"
+echo "║                  Author: M DHARAN RAJ                     ║"
+echo "║                     Web Developer                         ║"
+echo "║      CISCO Trained & CISCO Certified Ethical Hacker       ║"
+echo "║                                                           ║"
+echo "║             ⚠️  FOR AUTHORIZED TESTING ONLY ⚠️           ║"
+echo "║  Only scan systems you own or have explicit permission    ║"
 echo "╚═══════════════════════════════════════════════════════════╝"
 echo -e "${NC}"
 
@@ -38,6 +42,10 @@ fi
 
 TARGET=$1
 shift  # Remove target from arguments
+
+# Create Result_file directory if it doesn't exist
+mkdir -p "Result_file"
+echo -e "${GREEN}All reports will be saved in: $(pwd)/Result_file/${NC}"
 
 # Check if Python 3 is available
 if ! command -v python3 &> /dev/null; then
@@ -88,7 +96,7 @@ echo -e "${GREEN}Starting CyberSentinel scan for target: ${TARGET}${NC}"
 echo ""
 
 # Execute the main Python script with all passed arguments
-python3 src/main.py --target "$TARGET" --output-dir reports "$@"
+python3 src/main.py --target "$TARGET" --output-dir "Result_file" "$@"
 
 SCAN_EXIT_CODE=$?
 

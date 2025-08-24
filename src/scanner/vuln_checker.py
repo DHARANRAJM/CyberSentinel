@@ -16,8 +16,8 @@ import random
 from bs4 import BeautifulSoup
 import json
 
-from utils.logger import logger
-from utils.risk_engine import RiskEngine, VulnerabilityFinding, RiskLevel
+from ..utils.logger import logger
+from ..utils.risk_engine import RiskEngine, VulnerabilityFinding, RiskLevel
 
 class VulnerabilityChecker:
     """Web application vulnerability scanner"""

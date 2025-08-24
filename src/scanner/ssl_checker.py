@@ -18,8 +18,8 @@ from urllib.parse import urlparse
 from cryptography import x509
 from cryptography.hazmat.backends import default_backend
 
-from utils.logger import logger
-from utils.risk_engine import RiskEngine, VulnerabilityFinding, RiskLevel
+from ..utils.logger import logger
+from ..utils.risk_engine import RiskEngine, VulnerabilityFinding, RiskLevel
 
 class SSLChecker:
     """SSL/TLS security analyzer"""
