@@ -74,17 +74,17 @@ pip install -r requirements.txt
 
 ```bash
 # Quick scan with HTML report
-python src/main.py --target example.com
+python -m src.main --target example.com
 
 # Comprehensive scan with multiple report formats
-python src/main.py --target 192.168.1.1 --ports 1-65535 --output html pdf json
+python -m src.main --target 192.168.1.1 --ports 1-65535 --output html pdf json
 
 # Using the shell wrapper (Linux/Mac)
 chmod +x run.sh
 ./run.sh example.com
 
 # Skip specific scan phases
-python src/main.py --target example.com --skip-web-scan --skip-ssl-check
+python -m src.main --target example.com --skip-web-scan --skip-ssl-check
 ```
 
 ## 📖 Detailed Usage
@@ -92,7 +92,7 @@ python src/main.py --target example.com --skip-web-scan --skip-ssl-check
 ### Command Line Options
 
 ```bash
-python src/main.py [OPTIONS]
+python -m src.main [OPTIONS]
 
 Required Arguments:
   --target, -t          Target IP address or hostname to scan
