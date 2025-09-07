@@ -516,3 +516,19 @@
 2025-08-24 22:55:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m Security assessment completed successfully!
 2025-08-24 22:55:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generated reports:
 2025-08-24 22:55:52 - CyberSentinel - [32mINFO[0m - [32m[+][0m   PDF: Result_file\CyberSentinel_104.21.15.229_20250824_225552.pdf
+2025-09-06 18:53:21 - CyberSentinel - [32mINFO[0m - [32m[+][0m Loaded CVE database with 5 software entries
+2025-09-06 18:53:21 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting comprehensive security assessment of example.com
+2025-09-06 18:53:21 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting vulnerability scan for target: [36mexample.com[0m
+2025-09-06 18:53:21 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-09-06 18:53:21 - CyberSentinel - [32mINFO[0m - [32m[+][0m PHASE 1: PORT SCANNING
+2025-09-06 18:53:21 - CyberSentinel - [32mINFO[0m - [32m[+][0m ==================================================
+2025-09-06 18:53:21 - CyberSentinel - [32mINFO[0m - [32m[+][0m Starting port scan for example.com
+2025-09-06 18:53:21 - CyberSentinel - [32mINFO[0m - [32m[+][0m Scanning ports 1-1000 on example.com
+2025-09-06 18:53:41 - CyberSentinel - [33mWARNING[0m - [33m[!][0m Scan interrupted by user
+2025-09-06 18:53:41 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generating security reports in: D:\VS Code\CyberSentinel
+2025-09-06 18:53:41 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generating HTML report: CyberSentinel_example.com_20250906_185341.html
+2025-09-06 18:53:41 - CyberSentinel - [32mINFO[0m - [32m[+][0m HTML report generated successfully: CyberSentinel_example.com_20250906_185341.html
+2025-09-06 18:53:41 - CyberSentinel - [32mINFO[0m - [32m[+][0m Reports generated: html
+2025-09-06 18:53:41 - CyberSentinel - [32mINFO[0m - [32m[+][0m Security assessment completed successfully!
+2025-09-06 18:53:41 - CyberSentinel - [32mINFO[0m - [32m[+][0m Generated reports:
+2025-09-06 18:53:41 - CyberSentinel - [32mINFO[0m - [32m[+][0m   HTML: CyberSentinel_example.com_20250906_185341.html
